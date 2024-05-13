@@ -1,0 +1,10 @@
+{
+  "projectName": "clienteapi",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node12"
+  },
+  "hash": "fc0fde3f"
+}
